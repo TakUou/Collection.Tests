@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\Collection.Tests\TestMethods\bin\Debug\TestMethods.dll
+C:\Users\user\source\repos\Collection.Tests\TestMethods\bin\Debug\TestMethods.pdb
+C:\Users\user\source\repos\Collection.Tests\TestMethods\obj\Debug\TestMethods.Tests.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Collection.Tests\TestMethods\obj\Debug\TestMethods.Tests.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Collection.Tests\TestMethods\obj\Debug\TestMethods.dll
+C:\Users\user\source\repos\Collection.Tests\TestMethods\obj\Debug\TestMethods.pdb
